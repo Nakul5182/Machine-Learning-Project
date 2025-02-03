@@ -1,0 +1,1001 @@
+Student_ID,Gender,Ethnicity,Parental_Level_of_Education,Lunch,Test_Preparation_Course,,,Math_ score,,Read_score,,Write_score
+1,Male,Group D,Associate's,Standard,Completed,,,92,,88,,70
+2,Male,Group C,High School,Standard,Completed,,,97,,95,,64
+3,Female,Group D,Master's,Free/Reduced,None,,,62,,87,,53
+4,Male,Group C,Master's,Free/Reduced,Completed,,,64,,58,,79
+5,Female,Group D,Master's,Standard,Completed,,,74,,83,,98
+6,Male,Group A,Master's,Free/Reduced,Completed,,,83,,88,,60
+7,Male,Group A,High School,Free/Reduced,Completed,,,84,,92,,70
+8,Male,Group E,High School,Standard,Completed,,,51,,67,,77
+9,Female,Group D,High School,Standard,Completed,,,63,,73,,77
+10,Male,Group D,Bachelor's,Free/Reduced,Completed,,,95,,63,,55
+11,Male,Group B,Associate's,Free/Reduced,Completed,,,78,,76,,63
+12,Female,Group D,Associate's,Free/Reduced,Completed,,,92,,77,,82
+13,Male,Group E,Bachelor's,Standard,Completed,,,63,,55,,89
+14,Female,Group A,Bachelor's,Free/Reduced,None,,,79,,87,,73
+15,Male,Group D,Master's,Standard,Completed,,,69,,91,,85
+16,Female,Group E,High School,Standard,Completed,,,74,,53,,71
+17,Male,Group C,Associate's,Standard,None,,,65,,60,,80
+18,Female,Group C,High School,Free/Reduced,None,,,99,,81,,53
+19,Female,Group C,High School,Standard,Completed,,,60,,83,,74
+20,Female,Group B,Bachelor's,Free/Reduced,Completed,,,93,,97,,75
+21,Female,Group E,High School,Free/Reduced,Completed,,,76,,69,,80
+22,Female,Group A,Associate's,Standard,Completed,,,71,,83,,73
+23,Female,Group A,High School,Free/Reduced,Completed,,,58,,79,,78
+24,Male,Group E,Master's,Free/Reduced,None,,,77,,99,,66
+25,Male,Group A,High School,Free/Reduced,None,,,67,,100,,88
+26,Female,Group C,Bachelor's,Free/Reduced,Completed,,,79,,96,,67
+27,Female,Group E,Some College,Free/Reduced,Completed,,,62,,79,,77
+28,Male,Group C,Associate's,Free/Reduced,Completed,,,63,,59,,70
+29,Male,Group A,Bachelor's,Free/Reduced,None,,,78,,86,,80
+30,Female,Group A,Bachelor's,Free/Reduced,None,,,57,,73,,64
+31,Male,Group A,High School,Free/Reduced,Completed,,,88,,76,,54
+32,Female,Group D,Associate's,Free/Reduced,Completed,,,82,,52,,51
+33,Male,Group C,Some College,Standard,Completed,,,71,,93,,75
+34,Male,Group C,Some College,Standard,Completed,,,62,,73,,89
+35,Female,Group C,High School,Standard,None,,,99,,95,,70
+36,Female,Group C,Master's,Standard,None,,,88,,53,,65
+37,Female,Group D,Some College,Free/Reduced,None,,,83,,65,,86
+38,Male,Group B,Some College,Standard,None,,,84,,81,,63
+39,Male,Group A,High School,Standard,Completed,,,57,,64,,61
+40,Female,Group E,Bachelor's,Free/Reduced,Completed,,,72,,84,,50
+41,Male,Group E,Some College,Free/Reduced,None,,,69,,81,,90
+42,Male,Group A,Some College,Free/Reduced,Completed,,,55,,83,,92
+43,Male,Group A,Bachelor's,Standard,Completed,,,56,,59,,84
+44,Female,Group C,Some College,Standard,Completed,,,87,,84,,79
+45,Female,Group B,High School,Standard,Completed,,,76,,63,,75
+46,Female,Group D,Associate's,Standard,Completed,,,61,,86,,55
+47,Male,Group B,Bachelor's,Free/Reduced,None,,,65,,85,,63
+48,Female,Group D,Associate's,Standard,None,,,71,,54,,63
+49,Female,Group A,High School,Standard,None,,,94,,54,,63
+50,Male,Group C,High School,Standard,Completed,,,61,,52,,61
+51,Male,Group C,Bachelor's,Standard,Completed,,,86,,92,,95
+52,Female,Group E,Master's,Standard,None,,,62,,86,,81
+53,Male,Group B,Bachelor's,Standard,None,,,76,,54,,88
+54,Male,Group D,Some College,Free/Reduced,None,,,80,,56,,58
+55,Male,Group B,High School,Standard,None,,,94,,78,,92
+56,Female,Group C,Bachelor's,Free/Reduced,Completed,,,77,,91,,88
+57,Male,Group A,Some College,Free/Reduced,None,,,66,,72,,81
+58,Female,Group D,Some College,Standard,Completed,,,66,,99,,82
+59,Male,Group B,Bachelor's,Free/Reduced,Completed,,,91,,50,,76
+60,Male,Group D,Bachelor's,Free/Reduced,Completed,,,84,,69,,75
+61,Male,Group A,Master's,Free/Reduced,None,,,71,,95,,58
+62,Male,Group C,Bachelor's,Standard,None,,,70,,68,,53
+63,Female,Group B,Bachelor's,Free/Reduced,Completed,,,54,,77,,78
+64,Male,Group E,High School,Free/Reduced,None,,,50,,58,,74
+65,Female,Group E,Some College,Standard,None,,,69,,96,,79
+66,Female,Group C,Some College,Free/Reduced,None,,,95,,95,,66
+67,Male,Group E,Associate's,Standard,Completed,,,67,,50,,82
+68,Female,Group A,Master's,Standard,None,,,52,,94,,68
+69,Male,Group C,Some College,Standard,None,,,69,,75,,75
+70,Male,Group E,Associate's,Standard,Completed,,,94,,72,,98
+71,Male,Group D,Some College,Free/Reduced,None,,,81,,93,,53
+72,Male,Group D,High School,Standard,None,,,52,,94,,93
+73,Female,Group E,High School,Free/Reduced,Completed,,,70,,64,,81
+74,Female,Group B,High School,Standard,Completed,,,51,,61,,52
+75,Male,Group E,Some College,Free/Reduced,Completed,,,63,,55,,87
+76,Male,Group E,Some College,Free/Reduced,Completed,,,83,,60,,68
+77,Male,Group B,High School,Free/Reduced,None,,,57,,97,,92
+78,Female,Group E,Master's,Free/Reduced,Completed,,,99,,52,,60
+79,Female,Group B,Some College,Free/Reduced,Completed,,,82,,68,,62
+80,Male,Group D,Master's,Standard,Completed,,,68,,61,,51
+81,Male,Group A,High School,Free/Reduced,None,,,50,,97,,96
+82,Male,Group C,Associate's,Standard,Completed,,,87,,54,,79
+83,Female,Group B,Master's,Standard,Completed,,,76,,86,,53
+84,Male,Group B,Bachelor's,Standard,None,,,55,,99,,88
+85,Female,Group B,Bachelor's,Standard,None,,,84,,74,,50
+86,Female,Group A,Some College,Free/Reduced,Completed,,,84,,74,,67
+87,Male,Group E,High School,Standard,None,,,92,,62,,66
+88,Male,Group E,Bachelor's,Standard,None,,,89,,55,,86
+89,Female,Group A,High School,Free/Reduced,None,,,58,,90,,92
+90,Female,Group C,Some College,Free/Reduced,Completed,,,52,,56,,80
+91,Male,Group E,Some College,Free/Reduced,None,,,55,,85,,83
+92,Male,Group B,Some College,Free/Reduced,Completed,,,55,,58,,67
+93,Male,Group C,Associate's,Standard,None,,,59,,79,,77
+94,Female,Group E,Associate's,Free/Reduced,Completed,,,61,,75,,93
+95,Female,Group C,Bachelor's,Free/Reduced,Completed,,,86,,57,,55
+96,Female,Group C,Associate's,Free/Reduced,None,,,51,,81,,65
+97,Male,Group A,Bachelor's,Standard,Completed,,,68,,66,,85
+98,Female,Group A,Some College,Free/Reduced,None,,,70,,71,,56
+99,Female,Group D,Associate's,Standard,Completed,,,55,,73,,97
+100,Male,Group A,Bachelor's,Standard,Completed,,,93,,89,,92
+101,Female,Group E,Some College,Free/Reduced,None,,,50,,81,,58
+102,Male,Group B,High School,Standard,Completed,,,91,,94,,80
+103,Female,Group D,Associate's,Free/Reduced,None,,,81,,52,,86
+104,Male,Group B,Associate's,Standard,None,,,92,,96,,87
+105,Female,Group E,Associate's,Standard,None,,,99,,57,,72
+106,Female,Group B,Master's,Free/Reduced,None,,,77,,70,,93
+107,Male,Group D,Associate's,Free/Reduced,None,,,90,,67,,65
+108,Female,Group A,Master's,Standard,None,,,54,,88,,91
+109,Male,Group A,High School,Standard,Completed,,,95,,89,,100
+110,Female,Group A,Associate's,Standard,Completed,,,82,,65,,100
+111,Female,Group A,High School,Free/Reduced,Completed,,,53,,58,,98
+112,Female,Group B,Associate's,Free/Reduced,Completed,,,89,,90,,100
+113,Male,Group C,Master's,Free/Reduced,None,,,70,,63,,85
+114,Male,Group C,High School,Free/Reduced,None,,,78,,93,,94
+115,Female,Group C,High School,Free/Reduced,None,,,67,,55,,92
+116,Male,Group B,Master's,Free/Reduced,None,,,95,,100,,69
+117,Male,Group C,Some College,Standard,None,,,78,,55,,63
+118,Male,Group C,High School,Standard,Completed,,,79,,67,,53
+119,Male,Group E,High School,Standard,Completed,,,59,,92,,92
+120,Male,Group B,Master's,Standard,None,,,70,,78,,89
+121,Female,Group C,Bachelor's,Free/Reduced,Completed,,,63,,87,,71
+122,Male,Group D,High School,Standard,Completed,,,97,,79,,78
+123,Female,Group A,High School,Free/Reduced,None,,,92,,70,,56
+124,Female,Group A,Associate's,Free/Reduced,Completed,,,88,,71,,88
+125,Female,Group C,Associate's,Standard,Completed,,,71,,96,,89
+126,Male,Group E,Bachelor's,Free/Reduced,Completed,,,67,,51,,86
+127,Male,Group C,High School,Standard,Completed,,,53,,66,,68
+128,Female,Group D,Bachelor's,Free/Reduced,Completed,,,73,,51,,57
+129,Male,Group C,Some College,Free/Reduced,Completed,,,87,,68,,72
+130,Male,Group D,Some College,Free/Reduced,None,,,55,,66,,70
+131,Male,Group A,Master's,Free/Reduced,None,,,87,,63,,59
+132,Male,Group A,Some College,Standard,Completed,,,99,,93,,82
+133,Male,Group C,Some College,Standard,Completed,,,91,,78,,87
+134,Male,Group A,Some College,Standard,None,,,55,,74,,98
+135,Female,Group E,Master's,Standard,None,,,71,,70,,81
+136,Male,Group A,Some College,Free/Reduced,Completed,,,79,,100,,79
+137,Male,Group B,High School,Standard,None,,,83,,68,,93
+138,Male,Group B,Some College,Standard,Completed,,,97,,69,,69
+139,Male,Group C,Some College,Standard,None,,,51,,93,,77
+140,Male,Group A,Bachelor's,Standard,None,,,76,,86,,65
+141,Male,Group A,Master's,Free/Reduced,None,,,57,,73,,88
+142,Female,Group C,Some College,Standard,Completed,,,58,,85,,79
+143,Male,Group D,Some College,Free/Reduced,Completed,,,57,,76,,69
+144,Female,Group C,Bachelor's,Standard,None,,,56,,78,,68
+145,Female,Group A,Master's,Free/Reduced,Completed,,,87,,79,,55
+146,Female,Group C,Master's,Free/Reduced,Completed,,,56,,68,,99
+147,Male,Group B,High School,Free/Reduced,None,,,82,,56,,64
+148,Male,Group B,Master's,Free/Reduced,Completed,,,99,,60,,84
+149,Female,Group B,Some College,Standard,None,,,88,,67,,65
+150,Female,Group B,High School,Standard,None,,,50,,98,,94
+151,Male,Group E,Master's,Free/Reduced,Completed,,,77,,69,,95
+152,Male,Group C,High School,Standard,None,,,79,,89,,62
+153,Female,Group B,Bachelor's,Standard,Completed,,,77,,69,,72
+154,Female,Group A,High School,Free/Reduced,Completed,,,69,,55,,89
+155,Female,Group B,Some College,Standard,Completed,,,52,,75,,82
+156,Male,Group C,Some College,Free/Reduced,Completed,,,51,,71,,91
+157,Female,Group C,High School,Standard,None,,,65,,86,,70
+158,Male,Group E,Some College,Free/Reduced,Completed,,,78,,82,,56
+159,Female,Group A,Associate's,Standard,None,,,76,,88,,83
+160,Male,Group C,Some College,Free/Reduced,None,,,77,,92,,54
+161,Female,Group A,Bachelor's,Free/Reduced,Completed,,,96,,51,,51
+162,Female,Group E,Associate's,Standard,Completed,,,100,,87,,88
+163,Female,Group C,Associate's,Standard,None,,,71,,86,,98
+164,Male,Group A,Bachelor's,Free/Reduced,Completed,,,68,,75,,91
+165,Male,Group D,High School,Free/Reduced,None,,,63,,98,,96
+166,Female,Group E,Bachelor's,Free/Reduced,Completed,,,63,,51,,75
+167,Male,Group C,High School,Free/Reduced,Completed,,,56,,86,,89
+168,Male,Group D,Bachelor's,Standard,Completed,,,88,,84,,78
+169,Female,Group C,High School,Standard,Completed,,,60,,50,,98
+170,Female,Group B,Some College,Free/Reduced,Completed,,,64,,74,,65
+171,Male,Group B,High School,Free/Reduced,None,,,98,,100,,100
+172,Male,Group E,High School,Free/Reduced,Completed,,,69,,59,,81
+173,Male,Group B,Bachelor's,Free/Reduced,Completed,,,70,,64,,100
+174,Male,Group B,Master's,Standard,None,,,94,,64,,88
+175,Male,Group B,High School,Free/Reduced,None,,,77,,53,,66
+176,Male,Group E,Master's,Free/Reduced,Completed,,,56,,68,,91
+177,Female,Group E,Bachelor's,Free/Reduced,Completed,,,66,,97,,70
+178,Male,Group C,Bachelor's,Standard,Completed,,,77,,98,,84
+179,Male,Group C,High School,Standard,None,,,73,,87,,92
+180,Female,Group A,Associate's,Free/Reduced,None,,,86,,61,,99
+181,Female,Group D,Some College,Standard,Completed,,,70,,84,,55
+182,Male,Group C,Associate's,Standard,None,,,78,,96,,90
+183,Male,Group E,Bachelor's,Standard,None,,,85,,94,,87
+184,Male,Group E,Master's,Standard,None,,,85,,57,,86
+185,Male,Group A,High School,Standard,None,,,84,,99,,84
+186,Female,Group B,Associate's,Standard,None,,,55,,60,,56
+187,Male,Group C,Master's,Standard,None,,,72,,92,,94
+188,Male,Group B,Bachelor's,Free/Reduced,Completed,,,85,,57,,70
+189,Male,Group E,High School,Standard,None,,,54,,76,,59
+190,Female,Group C,Some College,Free/Reduced,Completed,,,62,,89,,88
+191,Female,Group B,Associate's,Free/Reduced,Completed,,,82,,100,,65
+192,Male,Group C,High School,Free/Reduced,None,,,82,,53,,72
+193,Female,Group B,Some College,Standard,Completed,,,84,,71,,85
+194,Female,Group A,Master's,Standard,None,,,72,,67,,67
+195,Male,Group B,Master's,Standard,None,,,92,,61,,85
+196,Male,Group B,Associate's,Standard,None,,,60,,94,,57
+197,Male,Group A,Associate's,Standard,Completed,,,52,,85,,87
+198,Male,Group E,Bachelor's,Free/Reduced,Completed,,,69,,96,,94
+199,Female,Group B,High School,Free/Reduced,None,,,73,,70,,71
+200,Female,Group A,High School,Standard,Completed,,,100,,66,,59
+201,Female,Group C,High School,Free/Reduced,None,,,86,,92,,71
+202,Female,Group C,Associate's,Standard,None,,,77,,61,,89
+203,Male,Group C,Some College,Free/Reduced,None,,,81,,52,,99
+204,Female,Group C,Associate's,Standard,None,,,86,,83,,97
+205,Male,Group B,Master's,Free/Reduced,Completed,,,50,,60,,58
+206,Female,Group B,Bachelor's,Standard,Completed,,,67,,51,,75
+207,Female,Group B,High School,Free/Reduced,None,,,93,,98,,60
+208,Female,Group E,Some College,Standard,Completed,,,61,,50,,72
+209,Female,Group B,Master's,Standard,Completed,,,63,,60,,80
+210,Male,Group C,Some College,Standard,None,,,91,,76,,54
+211,Female,Group A,Some College,Free/Reduced,Completed,,,74,,65,,87
+212,Male,Group B,Associate's,Free/Reduced,None,,,97,,94,,78
+213,Male,Group A,Associate's,Free/Reduced,Completed,,,60,,100,,80
+214,Male,Group D,Associate's,Free/Reduced,None,,,74,,75,,55
+215,Female,Group D,Bachelor's,Standard,None,,,67,,67,,62
+216,Male,Group C,Bachelor's,Free/Reduced,Completed,,,90,,58,,91
+217,Female,Group B,Some College,Free/Reduced,None,,,93,,50,,95
+218,Female,Group C,Bachelor's,Free/Reduced,None,,,82,,92,,69
+219,Male,Group D,Some College,Standard,None,,,93,,55,,83
+220,Male,Group B,Master's,Free/Reduced,Completed,,,89,,73,,64
+221,Female,Group A,Bachelor's,Free/Reduced,Completed,,,59,,66,,75
+222,Female,Group C,Bachelor's,Standard,None,,,70,,55,,79
+223,Female,Group D,Bachelor's,Standard,Completed,,,85,,59,,57
+224,Male,Group D,Bachelor's,Standard,Completed,,,53,,82,,79
+225,Female,Group C,Associate's,Standard,None,,,92,,50,,78
+226,Male,Group D,Master's,Standard,None,,,68,,100,,64
+227,Female,Group A,High School,Free/Reduced,None,,,56,,57,,86
+228,Female,Group B,Some College,Free/Reduced,Completed,,,75,,93,,59
+229,Male,Group D,Associate's,Standard,Completed,,,51,,81,,67
+230,Female,Group D,Some College,Standard,None,,,100,,54,,56
+231,Male,Group B,Master's,Standard,Completed,,,71,,81,,65
+232,Male,Group A,High School,Standard,Completed,,,60,,60,,97
+233,Male,Group C,High School,Free/Reduced,None,,,67,,89,,76
+234,Male,Group D,Some College,Standard,None,,,71,,79,,71
+235,Male,Group B,Master's,Free/Reduced,None,,,52,,82,,70
+236,Male,Group C,High School,Standard,None,,,84,,80,,99
+237,Male,Group A,High School,Standard,None,,,57,,92,,82
+238,Male,Group E,High School,Free/Reduced,None,,,52,,83,,61
+239,Female,Group E,Associate's,Free/Reduced,Completed,,,76,,79,,77
+240,Female,Group B,Master's,Free/Reduced,None,,,91,,97,,58
+241,Male,Group D,Bachelor's,Standard,None,,,82,,56,,100
+242,Female,Group E,Bachelor's,Standard,Completed,,,64,,69,,69
+243,Male,Group E,Some College,Free/Reduced,None,,,70,,86,,56
+244,Male,Group E,High School,Free/Reduced,None,,,56,,88,,81
+245,Female,Group E,High School,Standard,None,,,98,,75,,100
+246,Female,Group C,Associate's,Free/Reduced,None,,,53,,82,,81
+247,Female,Group C,High School,Free/Reduced,None,,,99,,68,,84
+248,Female,Group E,Associate's,Standard,Completed,,,64,,97,,86
+249,Female,Group B,Associate's,Free/Reduced,Completed,,,75,,90,,97
+250,Male,Group D,Master's,Free/Reduced,None,,,80,,93,,60
+251,Female,Group C,High School,Standard,Completed,,,72,,95,,59
+252,Female,Group D,Bachelor's,Standard,None,,,54,,88,,51
+253,Male,Group D,Bachelor's,Standard,Completed,,,77,,54,,67
+254,Female,Group B,Bachelor's,Standard,None,,,51,,57,,52
+255,Male,Group A,Bachelor's,Free/Reduced,None,,,95,,80,,87
+256,Male,Group B,Some College,Free/Reduced,None,,,97,,94,,89
+257,Male,Group C,High School,Free/Reduced,None,,,100,,88,,94
+258,Male,Group D,Associate's,Free/Reduced,Completed,,,96,,78,,78
+259,Female,Group E,Some College,Standard,None,,,60,,92,,73
+260,Male,Group D,High School,Free/Reduced,None,,,78,,90,,76
+261,Male,Group E,Associate's,Free/Reduced,Completed,,,61,,80,,68
+262,Female,Group D,Associate's,Free/Reduced,Completed,,,88,,94,,56
+263,Female,Group B,Associate's,Standard,None,,,68,,92,,80
+264,Female,Group D,High School,Standard,None,,,83,,84,,99
+265,Female,Group A,Master's,Free/Reduced,Completed,,,86,,79,,97
+266,Male,Group E,Associate's,Standard,Completed,,,57,,70,,82
+267,Male,Group A,Some College,Free/Reduced,Completed,,,53,,56,,66
+268,Male,Group E,Master's,Free/Reduced,Completed,,,91,,68,,91
+269,Male,Group A,Master's,Free/Reduced,Completed,,,82,,100,,80
+270,Female,Group E,Bachelor's,Free/Reduced,None,,,96,,89,,55
+271,Male,Group A,Some College,Free/Reduced,Completed,,,53,,54,,54
+272,Male,Group B,Bachelor's,Free/Reduced,None,,,98,,77,,52
+273,Female,Group E,Some College,Free/Reduced,None,,,99,,57,,80
+274,Female,Group E,High School,Free/Reduced,Completed,,,96,,88,,91
+275,Male,Group D,Some College,Free/Reduced,Completed,,,52,,86,,80
+276,Male,Group E,Master's,Free/Reduced,None,,,74,,60,,65
+277,Male,Group C,Some College,Free/Reduced,None,,,72,,54,,63
+278,Male,Group E,Some College,Free/Reduced,None,,,62,,75,,71
+279,Male,Group E,Bachelor's,Standard,None,,,80,,75,,73
+280,Female,Group A,High School,Standard,None,,,59,,90,,64
+281,Male,Group A,High School,Standard,Completed,,,88,,79,,73
+282,Male,Group C,Associate's,Standard,Completed,,,93,,72,,59
+283,Female,Group C,Some College,Standard,None,,,100,,94,,76
+284,Female,Group C,Bachelor's,Standard,None,,,89,,84,,64
+285,Female,Group A,Master's,Free/Reduced,Completed,,,81,,77,,62
+286,Female,Group E,Some College,Standard,None,,,96,,69,,80
+287,Female,Group D,High School,Standard,None,,,95,,69,,56
+288,Male,Group A,Associate's,Free/Reduced,Completed,,,51,,91,,66
+289,Male,Group E,Some College,Free/Reduced,Completed,,,61,,80,,99
+290,Female,Group C,High School,Standard,None,,,64,,75,,58
+291,Female,Group A,Master's,Free/Reduced,Completed,,,90,,94,,75
+292,Female,Group E,Bachelor's,Standard,None,,,64,,58,,98
+293,Female,Group D,High School,Free/Reduced,Completed,,,76,,82,,80
+294,Male,Group D,Bachelor's,Free/Reduced,None,,,71,,51,,59
+295,Female,Group C,Master's,Free/Reduced,None,,,93,,68,,92
+296,Male,Group C,Master's,Free/Reduced,Completed,,,61,,65,,66
+297,Male,Group C,Bachelor's,Free/Reduced,None,,,94,,100,,76
+298,Male,Group A,Some College,Free/Reduced,Completed,,,75,,61,,78
+299,Male,Group E,High School,Standard,Completed,,,92,,93,,81
+300,Female,Group E,Bachelor's,Standard,None,,,80,,99,,89
+301,Male,Group C,Master's,Free/Reduced,None,,,58,,56,,51
+302,Male,Group D,Some College,Standard,Completed,,,76,,67,,74
+303,Male,Group D,Bachelor's,Standard,Completed,,,64,,71,,89
+304,Female,Group E,Bachelor's,Standard,None,,,92,,89,,71
+305,Female,Group B,Bachelor's,Free/Reduced,None,,,54,,73,,67
+306,Male,Group A,Bachelor's,Standard,Completed,,,96,,86,,64
+307,Male,Group A,High School,Free/Reduced,None,,,72,,99,,65
+308,Male,Group D,Associate's,Free/Reduced,None,,,92,,74,,70
+309,Female,Group E,Master's,Free/Reduced,None,,,71,,78,,71
+310,Female,Group C,Master's,Standard,Completed,,,95,,58,,67
+311,Male,Group A,Associate's,Standard,None,,,83,,62,,88
+312,Male,Group A,Master's,Free/Reduced,Completed,,,80,,62,,98
+313,Female,Group D,High School,Free/Reduced,Completed,,,100,,98,,64
+314,Female,Group E,High School,Free/Reduced,Completed,,,79,,75,,69
+315,Male,Group B,Bachelor's,Standard,None,,,55,,95,,87
+316,Female,Group B,Bachelor's,Free/Reduced,None,,,50,,75,,79
+317,Male,Group B,Bachelor's,Standard,Completed,,,87,,80,,74
+318,Female,Group C,High School,Free/Reduced,Completed,,,59,,92,,64
+319,Male,Group C,Some College,Free/Reduced,None,,,98,,98,,61
+320,Female,Group A,High School,Standard,Completed,,,100,,58,,73
+321,Female,Group A,Some College,Free/Reduced,Completed,,,60,,58,,93
+322,Female,Group B,Some College,Free/Reduced,Completed,,,50,,91,,63
+323,Male,Group B,High School,Standard,Completed,,,83,,66,,68
+324,Male,Group C,Master's,Free/Reduced,Completed,,,52,,95,,76
+325,Female,Group D,Master's,Standard,None,,,69,,69,,69
+326,Female,Group A,Bachelor's,Free/Reduced,None,,,99,,70,,87
+327,Male,Group A,High School,Standard,Completed,,,83,,53,,76
+328,Female,Group A,Master's,Free/Reduced,None,,,78,,73,,59
+329,Female,Group A,Master's,Free/Reduced,Completed,,,81,,74,,58
+330,Female,Group B,High School,Standard,Completed,,,59,,50,,98
+331,Female,Group D,Associate's,Free/Reduced,None,,,85,,50,,80
+332,Male,Group A,High School,Free/Reduced,Completed,,,91,,98,,67
+333,Male,Group A,Master's,Free/Reduced,Completed,,,69,,96,,89
+334,Male,Group C,Master's,Free/Reduced,None,,,71,,61,,50
+335,Male,Group B,Master's,Standard,None,,,81,,61,,54
+336,Female,Group A,High School,Free/Reduced,Completed,,,96,,66,,90
+337,Female,Group B,Associate's,Free/Reduced,Completed,,,92,,71,,69
+338,Male,Group A,Bachelor's,Free/Reduced,None,,,85,,50,,73
+339,Female,Group B,High School,Free/Reduced,None,,,87,,96,,51
+340,Male,Group C,Some College,Standard,None,,,93,,86,,85
+341,Female,Group E,Master's,Standard,Completed,,,51,,55,,79
+342,Female,Group A,High School,Free/Reduced,None,,,69,,60,,55
+343,Male,Group E,Some College,Standard,None,,,50,,97,,72
+344,Female,Group E,Associate's,Free/Reduced,None,,,72,,74,,71
+345,Male,Group C,Associate's,Free/Reduced,Completed,,,57,,78,,89
+346,Female,Group E,High School,Standard,None,,,98,,68,,76
+347,Male,Group A,Master's,Free/Reduced,None,,,53,,64,,88
+348,Female,Group B,Associate's,Free/Reduced,Completed,,,82,,95,,55
+349,Male,Group C,Master's,Standard,None,,,55,,86,,77
+350,Male,Group E,Associate's,Standard,None,,,64,,88,,61
+351,Female,Group A,Master's,Free/Reduced,Completed,,,80,,91,,53
+352,Male,Group C,Master's,Standard,None,,,93,,54,,51
+353,Male,Group D,Bachelor's,Standard,None,,,84,,95,,57
+354,Male,Group B,Associate's,Free/Reduced,Completed,,,95,,65,,87
+355,Female,Group D,Some College,Free/Reduced,Completed,,,72,,94,,56
+356,Female,Group E,Associate's,Free/Reduced,Completed,,,65,,82,,66
+357,Male,Group A,Bachelor's,Standard,Completed,,,80,,99,,78
+358,Male,Group C,Associate's,Standard,Completed,,,63,,90,,52
+359,Male,Group A,Associate's,Free/Reduced,Completed,,,59,,86,,76
+360,Female,Group D,Some College,Free/Reduced,Completed,,,82,,80,,53
+361,Male,Group B,Bachelor's,Free/Reduced,None,,,79,,82,,52
+362,Female,Group B,Some College,Standard,Completed,,,65,,91,,81
+363,Female,Group A,Associate's,Free/Reduced,Completed,,,68,,99,,66
+364,Female,Group B,High School,Free/Reduced,Completed,,,86,,74,,80
+365,Female,Group C,Some College,Free/Reduced,Completed,,,51,,91,,64
+366,Male,Group D,Bachelor's,Standard,None,,,80,,86,,62
+367,Male,Group D,Bachelor's,Standard,Completed,,,68,,93,,89
+368,Male,Group D,Master's,Free/Reduced,None,,,94,,74,,50
+369,Male,Group E,High School,Standard,None,,,77,,81,,62
+370,Male,Group A,Master's,Standard,Completed,,,87,,81,,90
+371,Male,Group A,High School,Standard,Completed,,,78,,54,,68
+372,Female,Group B,Bachelor's,Standard,Completed,,,87,,71,,83
+373,Female,Group E,Some College,Free/Reduced,None,,,72,,88,,93
+374,Female,Group D,Some College,Free/Reduced,None,,,75,,76,,54
+375,Female,Group E,Associate's,Standard,Completed,,,92,,75,,73
+376,Male,Group C,Associate's,Standard,Completed,,,79,,84,,95
+377,Male,Group D,High School,Free/Reduced,None,,,85,,78,,70
+378,Male,Group E,Associate's,Standard,None,,,74,,97,,73
+379,Female,Group E,Master's,Standard,None,,,99,,66,,55
+380,Female,Group E,Some College,Standard,None,,,100,,92,,54
+381,Male,Group B,Associate's,Standard,None,,,78,,74,,84
+382,Female,Group A,Some College,Standard,Completed,,,72,,56,,75
+383,Male,Group E,Some College,Free/Reduced,None,,,54,,95,,61
+384,Female,Group A,Master's,Standard,None,,,75,,93,,86
+385,Female,Group D,Associate's,Free/Reduced,None,,,76,,62,,75
+386,Female,Group A,Bachelor's,Standard,Completed,,,91,,71,,57
+387,Male,Group A,High School,Free/Reduced,Completed,,,53,,71,,89
+388,Male,Group C,High School,Standard,Completed,,,64,,69,,73
+389,Male,Group C,Master's,Free/Reduced,Completed,,,66,,72,,79
+390,Male,Group E,High School,Standard,None,,,70,,100,,87
+391,Male,Group C,Master's,Standard,None,,,78,,61,,62
+392,Male,Group D,Associate's,Free/Reduced,Completed,,,56,,78,,85
+393,Female,Group C,Some College,Free/Reduced,None,,,90,,81,,69
+394,Female,Group A,Some College,Standard,None,,,59,,78,,57
+395,Male,Group B,Associate's,Free/Reduced,None,,,53,,97,,78
+396,Female,Group A,Master's,Free/Reduced,Completed,,,50,,58,,63
+397,Male,Group C,Bachelor's,Standard,None,,,95,,60,,51
+398,Male,Group B,Master's,Standard,None,,,62,,57,,55
+399,Male,Group D,Bachelor's,Free/Reduced,None,,,72,,60,,59
+400,Female,Group E,High School,Standard,None,,,61,,60,,84
+401,Male,Group B,Associate's,Standard,None,,,94,,55,,57
+402,Female,Group E,Some College,Free/Reduced,None,,,71,,83,,77
+403,Male,Group A,Associate's,Free/Reduced,Completed,,,50,,79,,86
+404,Female,Group E,Associate's,Free/Reduced,Completed,,,72,,83,,59
+405,Female,Group A,Associate's,Standard,None,,,54,,86,,56
+406,Male,Group A,High School,Free/Reduced,None,,,55,,97,,51
+407,Female,Group C,Associate's,Free/Reduced,None,,,75,,85,,57
+408,Female,Group C,High School,Standard,Completed,,,100,,72,,92
+409,Female,Group D,Master's,Free/Reduced,Completed,,,54,,85,,70
+410,Male,Group A,Master's,Standard,Completed,,,65,,99,,56
+411,Male,Group C,Bachelor's,Free/Reduced,Completed,,,68,,52,,71
+412,Male,Group D,Master's,Free/Reduced,Completed,,,65,,61,,76
+413,Male,Group E,Master's,Standard,None,,,57,,58,,62
+414,Male,Group C,Bachelor's,Standard,Completed,,,90,,71,,78
+415,Female,Group E,Some College,Free/Reduced,Completed,,,68,,61,,59
+416,Female,Group B,Associate's,Free/Reduced,Completed,,,82,,91,,78
+417,Female,Group E,Some College,Free/Reduced,Completed,,,56,,91,,80
+418,Male,Group E,Some College,Standard,None,,,85,,86,,55
+419,Female,Group B,Bachelor's,Free/Reduced,Completed,,,50,,96,,63
+420,Female,Group A,Some College,Free/Reduced,Completed,,,100,,96,,69
+421,Female,Group A,High School,Standard,None,,,90,,63,,94
+422,Female,Group D,High School,Free/Reduced,None,,,68,,93,,96
+423,Female,Group B,Some College,Free/Reduced,Completed,,,97,,62,,62
+424,Female,Group A,High School,Standard,Completed,,,64,,52,,86
+425,Female,Group D,High School,Standard,None,,,84,,84,,71
+426,Male,Group C,Bachelor's,Standard,Completed,,,74,,100,,80
+427,Male,Group A,Some College,Free/Reduced,Completed,,,51,,90,,83
+428,Male,Group E,Some College,Standard,Completed,,,57,,54,,67
+429,Female,Group B,Master's,Free/Reduced,Completed,,,97,,61,,96
+430,Male,Group D,Associate's,Free/Reduced,None,,,92,,95,,59
+431,Female,Group A,Some College,Free/Reduced,None,,,76,,58,,89
+432,Female,Group C,Associate's,Free/Reduced,Completed,,,72,,95,,55
+433,Male,Group E,Bachelor's,Free/Reduced,None,,,54,,77,,54
+434,Female,Group D,Master's,Standard,Completed,,,56,,66,,89
+435,Female,Group A,Some College,Free/Reduced,None,,,72,,52,,67
+436,Female,Group A,Bachelor's,Free/Reduced,None,,,64,,85,,62
+437,Male,Group D,High School,Free/Reduced,None,,,81,,56,,86
+438,Male,Group E,Associate's,Standard,None,,,72,,51,,78
+439,Male,Group D,High School,Standard,None,,,73,,80,,95
+440,Male,Group B,Associate's,Free/Reduced,Completed,,,52,,56,,58
+441,Male,Group C,Master's,Free/Reduced,Completed,,,65,,65,,98
+442,Female,Group E,Bachelor's,Standard,Completed,,,87,,68,,52
+443,Female,Group D,High School,Standard,None,,,69,,64,,84
+444,Male,Group D,Master's,Standard,None,,,87,,86,,80
+445,Male,Group D,Master's,Free/Reduced,None,,,59,,96,,80
+446,Male,Group A,Master's,Standard,Completed,,,70,,67,,65
+447,Male,Group B,Master's,Standard,None,,,93,,68,,89
+448,Male,Group D,Some College,Standard,Completed,,,82,,57,,87
+449,Female,Group D,Bachelor's,Standard,Completed,,,74,,50,,55
+450,Male,Group D,Some College,Free/Reduced,None,,,87,,61,,91
+451,Female,Group A,High School,Standard,None,,,88,,85,,55
+452,Male,Group E,Associate's,Standard,None,,,88,,58,,84
+453,Female,Group A,High School,Free/Reduced,Completed,,,68,,83,,100
+454,Male,Group D,Some College,Standard,Completed,,,99,,73,,67
+455,Female,Group D,Associate's,Standard,None,,,91,,92,,61
+456,Male,Group D,High School,Free/Reduced,None,,,58,,83,,94
+457,Male,Group C,Some College,Free/Reduced,None,,,78,,94,,100
+458,Female,Group B,High School,Free/Reduced,None,,,68,,100,,100
+459,Female,Group C,Some College,Free/Reduced,None,,,50,,51,,65
+460,Male,Group E,Associate's,Standard,None,,,81,,71,,81
+461,Female,Group D,Some College,Standard,None,,,52,,67,,90
+462,Male,Group B,Associate's,Standard,Completed,,,67,,77,,59
+463,Female,Group B,Associate's,Standard,None,,,73,,87,,57
+464,Female,Group C,Some College,Standard,Completed,,,83,,76,,95
+465,Female,Group D,Associate's,Free/Reduced,Completed,,,63,,62,,57
+466,Female,Group A,Associate's,Free/Reduced,None,,,62,,69,,93
+467,Female,Group B,High School,Standard,None,,,71,,58,,89
+468,Male,Group D,Associate's,Standard,None,,,58,,56,,50
+469,Female,Group E,Bachelor's,Free/Reduced,None,,,87,,87,,53
+470,Female,Group C,Bachelor's,Free/Reduced,Completed,,,51,,55,,96
+471,Female,Group D,Master's,Free/Reduced,None,,,95,,98,,83
+472,Female,Group D,High School,Standard,None,,,75,,92,,50
+473,Female,Group E,High School,Standard,None,,,97,,53,,88
+474,Female,Group D,Associate's,Standard,None,,,55,,51,,74
+475,Female,Group B,Associate's,Free/Reduced,Completed,,,57,,80,,72
+476,Female,Group A,Associate's,Free/Reduced,Completed,,,92,,84,,97
+477,Male,Group D,High School,Free/Reduced,Completed,,,72,,63,,80
+478,Male,Group A,Bachelor's,Free/Reduced,None,,,86,,57,,50
+479,Female,Group A,High School,Free/Reduced,None,,,84,,71,,67
+480,Female,Group B,Bachelor's,Free/Reduced,Completed,,,68,,75,,57
+481,Female,Group D,Bachelor's,Free/Reduced,Completed,,,52,,82,,85
+482,Male,Group A,Associate's,Free/Reduced,None,,,68,,52,,67
+483,Male,Group B,Bachelor's,Standard,None,,,77,,56,,90
+484,Male,Group E,High School,Free/Reduced,Completed,,,90,,92,,86
+485,Male,Group D,Bachelor's,Standard,Completed,,,81,,75,,88
+486,Female,Group C,High School,Free/Reduced,None,,,69,,77,,100
+487,Male,Group A,Master's,Standard,Completed,,,91,,59,,82
+488,Male,Group C,High School,Free/Reduced,Completed,,,71,,58,,98
+489,Male,Group A,Associate's,Free/Reduced,Completed,,,93,,94,,57
+490,Female,Group E,Some College,Standard,None,,,53,,96,,52
+491,Male,Group A,Some College,Standard,None,,,62,,96,,96
+492,Female,Group E,Bachelor's,Standard,Completed,,,92,,75,,86
+493,Male,Group A,Some College,Free/Reduced,Completed,,,95,,80,,70
+494,Male,Group C,Master's,Free/Reduced,None,,,56,,91,,69
+495,Female,Group D,High School,Standard,None,,,71,,56,,73
+496,Female,Group C,Bachelor's,Free/Reduced,None,,,50,,71,,95
+497,Male,Group A,Master's,Free/Reduced,None,,,87,,87,,95
+498,Male,Group A,Some College,Standard,None,,,96,,84,,89
+499,Female,Group B,Master's,Free/Reduced,Completed,,,59,,87,,79
+500,Male,Group C,Associate's,Free/Reduced,Completed,,,86,,51,,71
+501,Male,Group B,Some College,Standard,None,,,75,,58,,57
+502,Male,Group B,High School,Standard,None,,,89,,81,,67
+503,Male,Group C,Bachelor's,Standard,Completed,,,99,,72,,74
+504,Female,Group A,Master's,Free/Reduced,None,,,79,,79,,85
+505,Female,Group D,Associate's,Standard,None,,,69,,79,,94
+506,Male,Group C,Bachelor's,Free/Reduced,Completed,,,50,,54,,76
+507,Female,Group B,Bachelor's,Standard,Completed,,,86,,52,,97
+508,Female,Group C,Some College,Standard,None,,,65,,70,,52
+509,Female,Group E,High School,Standard,None,,,70,,76,,55
+510,Male,Group B,High School,Standard,None,,,95,,91,,84
+511,Female,Group E,High School,Free/Reduced,Completed,,,75,,92,,65
+512,Male,Group B,Master's,Standard,Completed,,,66,,69,,50
+513,Female,Group B,High School,Free/Reduced,Completed,,,83,,100,,91
+514,Male,Group D,Master's,Standard,Completed,,,50,,87,,68
+515,Male,Group A,Associate's,Free/Reduced,None,,,79,,77,,57
+516,Male,Group E,Associate's,Standard,None,,,51,,87,,71
+517,Female,Group C,Some College,Standard,Completed,,,63,,76,,76
+518,Female,Group A,High School,Standard,None,,,64,,74,,75
+519,Female,Group D,Bachelor's,Free/Reduced,None,,,96,,65,,56
+520,Male,Group B,Associate's,Standard,None,,,60,,98,,93
+521,Male,Group D,High School,Standard,Completed,,,50,,56,,96
+522,Male,Group C,Associate's,Free/Reduced,None,,,98,,79,,77
+523,Female,Group D,Associate's,Free/Reduced,Completed,,,63,,59,,83
+524,Female,Group E,Master's,Standard,Completed,,,66,,67,,96
+525,Male,Group D,Master's,Standard,Completed,,,62,,87,,93
+526,Male,Group E,High School,Standard,Completed,,,51,,91,,68
+527,Female,Group C,High School,Standard,None,,,84,,76,,78
+528,Male,Group D,High School,Free/Reduced,None,,,57,,86,,61
+529,Female,Group E,Master's,Free/Reduced,Completed,,,94,,55,,94
+530,Male,Group D,Bachelor's,Standard,Completed,,,96,,100,,58
+531,Male,Group E,Associate's,Standard,None,,,54,,58,,72
+532,Male,Group C,Master's,Standard,None,,,95,,85,,95
+533,Male,Group A,High School,Free/Reduced,None,,,92,,89,,55
+534,Female,Group D,Some College,Standard,None,,,60,,99,,82
+535,Male,Group A,Bachelor's,Standard,Completed,,,90,,67,,95
+536,Female,Group D,Associate's,Standard,None,,,52,,59,,69
+537,Female,Group B,Bachelor's,Free/Reduced,Completed,,,73,,76,,63
+538,Male,Group D,Bachelor's,Free/Reduced,None,,,74,,85,,53
+539,Male,Group D,Master's,Standard,Completed,,,54,,92,,75
+540,Female,Group E,Master's,Standard,Completed,,,79,,89,,95
+541,Male,Group A,Some College,Free/Reduced,None,,,100,,89,,61
+542,Male,Group A,Some College,Free/Reduced,Completed,,,73,,51,,52
+543,Female,Group D,Some College,Free/Reduced,None,,,88,,55,,99
+544,Male,Group E,High School,Standard,None,,,71,,98,,69
+545,Male,Group A,Associate's,Free/Reduced,None,,,65,,50,,100
+546,Male,Group E,Associate's,Free/Reduced,None,,,77,,50,,67
+547,Female,Group C,Master's,Free/Reduced,Completed,,,90,,90,,55
+548,Female,Group C,Bachelor's,Standard,None,,,50,,58,,65
+549,Female,Group D,Some College,Free/Reduced,Completed,,,82,,60,,74
+550,Male,Group E,Master's,Free/Reduced,Completed,,,65,,84,,85
+551,Female,Group C,Some College,Standard,None,,,100,,62,,67
+552,Female,Group D,Bachelor's,Free/Reduced,Completed,,,85,,50,,70
+553,Male,Group C,Associate's,Free/Reduced,None,,,88,,55,,61
+554,Male,Group C,Bachelor's,Free/Reduced,None,,,79,,90,,87
+555,Male,Group E,Some College,Standard,None,,,60,,67,,53
+556,Female,Group D,Associate's,Free/Reduced,Completed,,,75,,97,,60
+557,Male,Group B,Some College,Free/Reduced,Completed,,,79,,89,,67
+558,Female,Group B,Some College,Free/Reduced,None,,,67,,68,,63
+559,Female,Group E,Some College,Free/Reduced,Completed,,,65,,77,,53
+560,Female,Group C,Master's,Standard,Completed,,,80,,71,,82
+561,Male,Group E,Associate's,Free/Reduced,None,,,77,,81,,56
+562,Male,Group C,Bachelor's,Free/Reduced,Completed,,,73,,77,,60
+563,Male,Group E,Associate's,Free/Reduced,None,,,65,,52,,58
+564,Female,Group D,Some College,Free/Reduced,None,,,72,,61,,86
+565,Female,Group E,Some College,Free/Reduced,Completed,,,69,,89,,59
+566,Female,Group C,Bachelor's,Free/Reduced,Completed,,,72,,71,,68
+567,Male,Group E,Associate's,Free/Reduced,Completed,,,64,,61,,56
+568,Female,Group C,Master's,Free/Reduced,None,,,58,,97,,84
+569,Female,Group E,High School,Free/Reduced,Completed,,,90,,90,,94
+570,Female,Group A,High School,Standard,Completed,,,90,,71,,52
+571,Male,Group D,High School,Standard,None,,,56,,87,,84
+572,Female,Group C,High School,Free/Reduced,None,,,99,,93,,80
+573,Female,Group A,Some College,Free/Reduced,None,,,52,,73,,53
+574,Female,Group A,Some College,Standard,Completed,,,99,,58,,65
+575,Female,Group D,Bachelor's,Free/Reduced,Completed,,,86,,51,,90
+576,Female,Group C,High School,Free/Reduced,Completed,,,65,,73,,65
+577,Male,Group A,Associate's,Standard,None,,,87,,79,,79
+578,Male,Group A,High School,Free/Reduced,Completed,,,54,,95,,81
+579,Female,Group D,Bachelor's,Free/Reduced,Completed,,,82,,78,,61
+580,Male,Group D,Bachelor's,Standard,Completed,,,74,,71,,63
+581,Female,Group C,High School,Free/Reduced,None,,,98,,87,,91
+582,Female,Group E,Bachelor's,Standard,None,,,97,,55,,57
+583,Male,Group A,Bachelor's,Standard,None,,,89,,81,,72
+584,Female,Group C,High School,Standard,Completed,,,51,,73,,75
+585,Male,Group C,Some College,Free/Reduced,Completed,,,63,,56,,73
+586,Male,Group C,Bachelor's,Standard,Completed,,,67,,66,,86
+587,Female,Group C,Master's,Free/Reduced,None,,,66,,51,,82
+588,Female,Group C,Bachelor's,Free/Reduced,None,,,76,,98,,59
+589,Male,Group B,Master's,Standard,None,,,100,,64,,68
+590,Female,Group B,Associate's,Standard,Completed,,,60,,88,,55
+591,Male,Group E,Associate's,Free/Reduced,None,,,74,,75,,50
+592,Female,Group D,High School,Standard,Completed,,,62,,70,,68
+593,Female,Group D,Bachelor's,Free/Reduced,None,,,54,,81,,94
+594,Male,Group B,Bachelor's,Standard,Completed,,,68,,82,,72
+595,Male,Group E,Some College,Standard,None,,,95,,83,,83
+596,Female,Group E,Bachelor's,Standard,Completed,,,76,,76,,77
+597,Male,Group A,Associate's,Free/Reduced,Completed,,,69,,79,,67
+598,Female,Group C,High School,Free/Reduced,None,,,73,,71,,93
+599,Male,Group D,Some College,Free/Reduced,None,,,64,,76,,76
+600,Female,Group A,Master's,Standard,None,,,53,,70,,84
+601,Male,Group C,Bachelor's,Standard,None,,,86,,54,,66
+602,Female,Group C,Associate's,Free/Reduced,Completed,,,98,,74,,66
+603,Male,Group A,Bachelor's,Standard,Completed,,,55,,84,,95
+604,Female,Group E,High School,Free/Reduced,None,,,50,,66,,95
+605,Male,Group D,High School,Standard,Completed,,,52,,90,,82
+606,Male,Group D,Some College,Standard,Completed,,,58,,85,,79
+607,Male,Group C,Some College,Free/Reduced,None,,,89,,55,,61
+608,Female,Group E,Master's,Standard,Completed,,,50,,76,,94
+609,Male,Group D,Some College,Standard,Completed,,,93,,65,,69
+610,Male,Group A,Bachelor's,Free/Reduced,None,,,91,,76,,93
+611,Female,Group B,Master's,Standard,None,,,51,,97,,59
+612,Male,Group E,High School,Free/Reduced,None,,,82,,70,,51
+613,Female,Group D,High School,Free/Reduced,Completed,,,88,,79,,74
+614,Female,Group A,Bachelor's,Standard,None,,,50,,99,,93
+615,Male,Group A,Some College,Standard,None,,,61,,63,,66
+616,Female,Group D,Master's,Free/Reduced,None,,,79,,53,,92
+617,Female,Group A,Some College,Free/Reduced,None,,,85,,77,,94
+618,Male,Group D,Master's,Standard,Completed,,,94,,91,,71
+619,Female,Group C,Some College,Standard,None,,,79,,53,,67
+620,Male,Group E,Some College,Standard,Completed,,,88,,97,,99
+621,Female,Group E,Master's,Standard,Completed,,,87,,72,,85
+622,Female,Group D,Bachelor's,Standard,None,,,66,,58,,98
+623,Female,Group B,High School,Standard,Completed,,,88,,81,,77
+624,Male,Group E,Some College,Standard,Completed,,,59,,81,,64
+625,Male,Group A,High School,Standard,Completed,,,72,,94,,92
+626,Male,Group D,Master's,Free/Reduced,None,,,53,,60,,88
+627,Female,Group C,Some College,Free/Reduced,None,,,99,,78,,88
+628,Male,Group B,High School,Free/Reduced,None,,,52,,64,,87
+629,Female,Group C,Associate's,Standard,None,,,72,,97,,61
+630,Female,Group A,Master's,Free/Reduced,Completed,,,83,,86,,80
+631,Female,Group D,Master's,Free/Reduced,Completed,,,67,,70,,97
+632,Female,Group C,Some College,Free/Reduced,None,,,83,,75,,52
+633,Female,Group E,Bachelor's,Standard,None,,,52,,72,,66
+634,Female,Group D,Some College,Standard,None,,,88,,80,,97
+635,Male,Group D,Associate's,Standard,Completed,,,91,,59,,83
+636,Female,Group E,High School,Standard,None,,,100,,76,,93
+637,Male,Group B,Bachelor's,Standard,Completed,,,64,,82,,52
+638,Male,Group A,Associate's,Standard,None,,,59,,97,,69
+639,Female,Group E,Some College,Standard,None,,,90,,75,,71
+640,Male,Group E,Associate's,Standard,Completed,,,89,,72,,65
+641,Male,Group D,Bachelor's,Free/Reduced,Completed,,,58,,94,,78
+642,Male,Group E,Associate's,Standard,None,,,56,,100,,88
+643,Female,Group A,Bachelor's,Standard,Completed,,,86,,81,,99
+644,Female,Group C,Master's,Standard,None,,,65,,63,,60
+645,Male,Group A,Bachelor's,Standard,Completed,,,97,,94,,88
+646,Female,Group B,High School,Standard,None,,,68,,90,,59
+647,Male,Group A,High School,Free/Reduced,None,,,96,,96,,57
+648,Male,Group E,High School,Free/Reduced,Completed,,,65,,86,,98
+649,Female,Group E,Master's,Standard,None,,,80,,90,,78
+650,Male,Group A,High School,Standard,None,,,73,,80,,69
+651,Male,Group E,Master's,Standard,Completed,,,52,,51,,56
+652,Male,Group C,High School,Free/Reduced,None,,,54,,74,,84
+653,Male,Group C,High School,Standard,None,,,76,,76,,53
+654,Male,Group B,Master's,Free/Reduced,Completed,,,85,,78,,70
+655,Male,Group E,Associate's,Free/Reduced,None,,,58,,87,,93
+656,Male,Group A,Bachelor's,Free/Reduced,Completed,,,100,,78,,67
+657,Male,Group A,High School,Standard,Completed,,,76,,51,,99
+658,Female,Group B,High School,Free/Reduced,Completed,,,83,,92,,54
+659,Female,Group B,Some College,Free/Reduced,Completed,,,61,,61,,56
+660,Female,Group B,Associate's,Standard,None,,,88,,82,,84
+661,Male,Group A,Bachelor's,Free/Reduced,None,,,64,,97,,94
+662,Female,Group C,Master's,Free/Reduced,Completed,,,74,,65,,82
+663,Female,Group A,Master's,Standard,Completed,,,52,,98,,80
+664,Male,Group C,Master's,Standard,Completed,,,55,,67,,53
+665,Male,Group A,Some College,Standard,None,,,62,,55,,53
+666,Male,Group B,High School,Standard,None,,,56,,58,,59
+667,Female,Group C,Some College,Standard,None,,,95,,54,,99
+668,Male,Group C,High School,Standard,None,,,84,,70,,90
+669,Male,Group C,High School,Free/Reduced,None,,,54,,63,,61
+670,Female,Group C,Associate's,Standard,Completed,,,67,,69,,79
+671,Male,Group A,High School,Standard,None,,,66,,92,,76
+672,Male,Group C,Associate's,Standard,Completed,,,80,,85,,65
+673,Female,Group B,Master's,Free/Reduced,Completed,,,93,,99,,79
+674,Female,Group B,Associate's,Standard,None,,,60,,63,,73
+675,Male,Group A,High School,Standard,Completed,,,78,,57,,58
+676,Male,Group B,Bachelor's,Standard,Completed,,,86,,80,,52
+677,Male,Group E,Master's,Standard,None,,,51,,84,,97
+678,Male,Group D,Master's,Standard,Completed,,,87,,98,,69
+679,Male,Group A,Bachelor's,Free/Reduced,None,,,57,,54,,74
+680,Female,Group D,High School,Standard,Completed,,,88,,80,,51
+681,Male,Group C,High School,Standard,Completed,,,54,,88,,69
+682,Female,Group E,High School,Standard,None,,,59,,70,,75
+683,Female,Group D,High School,Standard,None,,,100,,96,,54
+684,Male,Group C,Master's,Free/Reduced,Completed,,,94,,72,,59
+685,Male,Group A,Some College,Free/Reduced,Completed,,,90,,73,,78
+686,Female,Group A,Master's,Free/Reduced,Completed,,,65,,84,,62
+687,Male,Group B,Master's,Free/Reduced,Completed,,,89,,55,,89
+688,Female,Group A,Some College,Free/Reduced,None,,,94,,83,,86
+689,Male,Group C,Associate's,Free/Reduced,Completed,,,99,,99,,91
+690,Male,Group D,Master's,Standard,None,,,75,,94,,81
+691,Female,Group C,Bachelor's,Standard,None,,,100,,57,,63
+692,Female,Group D,Bachelor's,Standard,None,,,54,,50,,57
+693,Male,Group B,Master's,Free/Reduced,None,,,69,,83,,100
+694,Male,Group B,Some College,Free/Reduced,None,,,65,,66,,100
+695,Male,Group E,Associate's,Standard,None,,,54,,97,,61
+696,Male,Group D,Some College,Free/Reduced,None,,,88,,62,,76
+697,Male,Group A,Associate's,Free/Reduced,Completed,,,76,,87,,67
+698,Male,Group B,Associate's,Free/Reduced,Completed,,,65,,96,,79
+699,Female,Group E,High School,Free/Reduced,None,,,100,,89,,75
+700,Male,Group D,Bachelor's,Free/Reduced,Completed,,,91,,93,,79
+701,Female,Group D,Some College,Free/Reduced,Completed,,,73,,76,,89
+702,Male,Group B,Some College,Standard,Completed,,,81,,79,,52
+703,Male,Group A,Master's,Standard,None,,,70,,61,,81
+704,Male,Group E,Associate's,Free/Reduced,None,,,94,,85,,67
+705,Male,Group B,High School,Free/Reduced,None,,,73,,74,,54
+706,Female,Group A,High School,Standard,None,,,100,,60,,92
+707,Male,Group B,Master's,Standard,None,,,86,,87,,100
+708,Male,Group E,High School,Standard,Completed,,,81,,52,,54
+709,Female,Group D,High School,Standard,Completed,,,82,,69,,88
+710,Female,Group C,Bachelor's,Free/Reduced,None,,,61,,96,,65
+711,Male,Group E,Some College,Standard,None,,,94,,74,,98
+712,Male,Group A,High School,Standard,None,,,98,,84,,86
+713,Female,Group A,High School,Free/Reduced,Completed,,,50,,87,,96
+714,Female,Group C,Associate's,Standard,Completed,,,64,,95,,73
+715,Female,Group A,High School,Free/Reduced,Completed,,,53,,85,,68
+716,Female,Group D,High School,Free/Reduced,Completed,,,91,,67,,79
+717,Female,Group A,High School,Standard,Completed,,,81,,50,,79
+718,Female,Group A,High School,Standard,Completed,,,63,,90,,78
+719,Female,Group C,Master's,Standard,None,,,66,,86,,67
+720,Male,Group D,Bachelor's,Standard,Completed,,,53,,57,,54
+721,Male,Group E,Master's,Standard,None,,,71,,68,,64
+722,Female,Group A,Some College,Free/Reduced,None,,,55,,92,,68
+723,Female,Group B,Associate's,Free/Reduced,None,,,97,,90,,92
+724,Female,Group B,Bachelor's,Standard,Completed,,,71,,80,,94
+725,Female,Group D,High School,Free/Reduced,None,,,75,,85,,94
+726,Male,Group C,Bachelor's,Free/Reduced,Completed,,,66,,61,,57
+727,Male,Group C,Some College,Standard,None,,,52,,66,,60
+728,Female,Group C,Bachelor's,Free/Reduced,None,,,86,,65,,59
+729,Female,Group B,High School,Free/Reduced,None,,,78,,83,,82
+730,Female,Group C,Bachelor's,Standard,None,,,80,,50,,68
+731,Female,Group B,High School,Free/Reduced,None,,,90,,61,,61
+732,Male,Group E,Bachelor's,Free/Reduced,None,,,84,,96,,72
+733,Male,Group A,Some College,Standard,None,,,79,,61,,52
+734,Female,Group A,Associate's,Free/Reduced,None,,,57,,96,,67
+735,Male,Group C,Bachelor's,Standard,None,,,55,,89,,99
+736,Male,Group B,High School,Free/Reduced,Completed,,,81,,78,,80
+737,Female,Group D,High School,Standard,None,,,73,,82,,77
+738,Male,Group E,Associate's,Free/Reduced,None,,,80,,70,,51
+739,Female,Group A,Master's,Standard,None,,,55,,74,,98
+740,Female,Group E,Master's,Standard,None,,,72,,91,,94
+741,Female,Group D,High School,Standard,None,,,60,,62,,79
+742,Female,Group C,Master's,Standard,None,,,70,,92,,52
+743,Female,Group C,Associate's,Standard,None,,,60,,100,,61
+744,Male,Group E,Master's,Standard,None,,,72,,62,,91
+745,Female,Group B,Master's,Free/Reduced,Completed,,,97,,57,,98
+746,Male,Group D,Master's,Standard,None,,,91,,94,,83
+747,Female,Group D,Master's,Standard,Completed,,,72,,57,,93
+748,Male,Group C,Bachelor's,Standard,Completed,,,68,,85,,94
+749,Female,Group A,Associate's,Free/Reduced,None,,,70,,52,,96
+750,Female,Group A,High School,Free/Reduced,Completed,,,55,,86,,97
+751,Male,Group E,Master's,Free/Reduced,None,,,93,,58,,90
+752,Male,Group A,Associate's,Free/Reduced,None,,,78,,97,,88
+753,Female,Group E,Some College,Standard,Completed,,,80,,58,,58
+754,Male,Group C,Bachelor's,Standard,Completed,,,80,,54,,85
+755,Male,Group B,Some College,Standard,Completed,,,77,,74,,93
+756,Female,Group A,Some College,Free/Reduced,None,,,75,,95,,77
+757,Male,Group C,Associate's,Standard,None,,,91,,83,,83
+758,Female,Group D,Master's,Free/Reduced,None,,,74,,94,,61
+759,Female,Group B,High School,Standard,None,,,82,,98,,88
+760,Male,Group B,Some College,Free/Reduced,Completed,,,90,,55,,89
+761,Female,Group D,Bachelor's,Free/Reduced,Completed,,,88,,100,,98
+762,Male,Group D,Bachelor's,Free/Reduced,None,,,53,,53,,52
+763,Male,Group A,High School,Free/Reduced,None,,,50,,64,,82
+764,Male,Group C,Master's,Standard,Completed,,,94,,97,,52
+765,Female,Group D,Master's,Free/Reduced,Completed,,,71,,86,,67
+766,Male,Group D,Master's,Standard,Completed,,,92,,87,,92
+767,Male,Group A,Some College,Standard,Completed,,,66,,87,,81
+768,Male,Group D,Associate's,Free/Reduced,Completed,,,66,,76,,72
+769,Male,Group E,Some College,Free/Reduced,None,,,85,,63,,97
+770,Female,Group B,Associate's,Standard,None,,,98,,84,,53
+771,Male,Group E,Master's,Free/Reduced,None,,,79,,91,,82
+772,Female,Group E,High School,Standard,Completed,,,61,,72,,92
+773,Female,Group E,Associate's,Standard,Completed,,,88,,98,,56
+774,Female,Group D,Associate's,Standard,Completed,,,64,,83,,98
+775,Male,Group E,Some College,Standard,Completed,,,89,,84,,96
+776,Female,Group D,Associate's,Free/Reduced,None,,,72,,57,,68
+777,Female,Group B,Some College,Free/Reduced,None,,,70,,81,,67
+778,Female,Group B,Bachelor's,Free/Reduced,Completed,,,54,,96,,62
+779,Male,Group D,High School,Free/Reduced,Completed,,,53,,78,,96
+780,Male,Group B,Some College,Free/Reduced,None,,,68,,58,,59
+781,Male,Group B,Some College,Standard,Completed,,,83,,81,,61
+782,Male,Group B,Associate's,Free/Reduced,Completed,,,58,,50,,70
+783,Female,Group D,Bachelor's,Free/Reduced,None,,,52,,69,,61
+784,Female,Group B,High School,Free/Reduced,None,,,67,,68,,59
+785,Female,Group B,Bachelor's,Standard,Completed,,,51,,81,,63
+786,Male,Group A,Associate's,Free/Reduced,None,,,100,,92,,100
+787,Female,Group A,Master's,Standard,Completed,,,100,,81,,55
+788,Female,Group C,High School,Standard,None,,,73,,57,,66
+789,Female,Group B,Bachelor's,Standard,Completed,,,92,,60,,76
+790,Male,Group C,Some College,Standard,Completed,,,73,,68,,97
+791,Male,Group A,High School,Free/Reduced,None,,,88,,50,,60
+792,Male,Group B,Associate's,Standard,None,,,95,,66,,56
+793,Female,Group D,High School,Free/Reduced,None,,,69,,98,,93
+794,Male,Group B,Master's,Free/Reduced,None,,,83,,62,,61
+795,Female,Group E,Master's,Free/Reduced,Completed,,,69,,71,,76
+796,Female,Group E,High School,Standard,None,,,62,,85,,93
+797,Male,Group B,Master's,Free/Reduced,None,,,85,,97,,89
+798,Male,Group E,Associate's,Standard,Completed,,,87,,95,,97
+799,Male,Group C,High School,Standard,None,,,50,,70,,99
+800,Male,Group C,High School,Free/Reduced,None,,,100,,93,,84
+801,Female,Group A,Associate's,Standard,Completed,,,98,,56,,74
+802,Male,Group D,Master's,Free/Reduced,Completed,,,90,,83,,89
+803,Male,Group B,Associate's,Free/Reduced,Completed,,,62,,83,,98
+804,Male,Group A,Some College,Free/Reduced,Completed,,,95,,89,,78
+805,Male,Group C,Master's,Free/Reduced,Completed,,,77,,91,,87
+806,Male,Group B,Associate's,Standard,None,,,75,,60,,59
+807,Male,Group D,High School,Standard,None,,,86,,63,,61
+808,Female,Group A,Master's,Free/Reduced,Completed,,,82,,91,,69
+809,Female,Group B,Bachelor's,Standard,Completed,,,72,,88,,79
+810,Female,Group D,Bachelor's,Free/Reduced,None,,,71,,85,,87
+811,Female,Group A,Bachelor's,Free/Reduced,Completed,,,83,,53,,60
+812,Female,Group B,High School,Free/Reduced,None,,,73,,54,,81
+813,Male,Group A,Master's,Free/Reduced,None,,,66,,64,,71
+814,Male,Group C,Associate's,Free/Reduced,None,,,92,,93,,59
+815,Male,Group A,Some College,Free/Reduced,None,,,59,,85,,78
+816,Female,Group C,Associate's,Standard,None,,,87,,87,,86
+817,Male,Group A,Bachelor's,Free/Reduced,Completed,,,90,,75,,70
+818,Male,Group D,High School,Standard,Completed,,,68,,83,,77
+819,Female,Group A,Associate's,Standard,Completed,,,95,,85,,80
+820,Male,Group E,Bachelor's,Standard,Completed,,,98,,58,,51
+821,Female,Group A,Bachelor's,Free/Reduced,Completed,,,67,,58,,73
+822,Male,Group B,Some College,Standard,Completed,,,52,,80,,50
+823,Male,Group D,Associate's,Free/Reduced,None,,,86,,83,,77
+824,Female,Group B,Associate's,Standard,Completed,,,53,,63,,65
+825,Female,Group D,Associate's,Standard,Completed,,,83,,98,,99
+826,Female,Group C,Some College,Standard,None,,,65,,65,,71
+827,Male,Group B,High School,Standard,None,,,74,,91,,84
+828,Female,Group B,Bachelor's,Standard,Completed,,,52,,60,,97
+829,Female,Group E,Master's,Standard,Completed,,,66,,93,,57
+830,Female,Group A,High School,Standard,None,,,61,,75,,98
+831,Male,Group D,High School,Standard,None,,,53,,50,,80
+832,Female,Group E,Bachelor's,Standard,None,,,51,,68,,90
+833,Male,Group D,Associate's,Free/Reduced,None,,,96,,85,,57
+834,Male,Group E,Some College,Free/Reduced,None,,,79,,57,,94
+835,Female,Group A,Master's,Free/Reduced,None,,,89,,97,,62
+836,Female,Group E,Associate's,Standard,None,,,58,,59,,75
+837,Female,Group A,High School,Free/Reduced,Completed,,,68,,96,,91
+838,Male,Group E,Associate's,Standard,Completed,,,56,,59,,76
+839,Female,Group B,Bachelor's,Free/Reduced,None,,,96,,78,,79
+840,Male,Group E,Some College,Standard,Completed,,,58,,100,,65
+841,Female,Group D,Bachelor's,Free/Reduced,None,,,91,,85,,80
+842,Female,Group E,Associate's,Standard,Completed,,,94,,85,,67
+843,Female,Group C,Bachelor's,Free/Reduced,None,,,64,,63,,99
+844,Female,Group E,High School,Free/Reduced,None,,,55,,84,,79
+845,Female,Group E,Some College,Free/Reduced,None,,,57,,62,,78
+846,Male,Group E,Master's,Free/Reduced,Completed,,,51,,64,,77
+847,Female,Group E,High School,Free/Reduced,None,,,98,,95,,76
+848,Male,Group C,Master's,Free/Reduced,Completed,,,61,,62,,96
+849,Female,Group C,Bachelor's,Standard,Completed,,,59,,89,,69
+850,Female,Group E,High School,Free/Reduced,None,,,64,,70,,95
+851,Female,Group A,Associate's,Free/Reduced,Completed,,,84,,85,,98
+852,Female,Group C,High School,Free/Reduced,None,,,71,,81,,79
+853,Male,Group A,Associate's,Free/Reduced,None,,,53,,51,,50
+854,Male,Group C,Bachelor's,Free/Reduced,None,,,75,,77,,97
+855,Female,Group A,Associate's,Free/Reduced,None,,,83,,83,,100
+856,Male,Group D,Associate's,Free/Reduced,None,,,66,,76,,93
+857,Female,Group B,Associate's,Standard,Completed,,,97,,96,,68
+858,Male,Group D,Bachelor's,Free/Reduced,Completed,,,66,,62,,84
+859,Male,Group C,Associate's,Standard,Completed,,,91,,91,,94
+860,Male,Group E,Master's,Standard,None,,,80,,75,,73
+861,Female,Group E,High School,Standard,Completed,,,68,,52,,95
+862,Male,Group C,Master's,Standard,Completed,,,67,,90,,79
+863,Male,Group D,High School,Standard,None,,,63,,71,,96
+864,Female,Group A,Some College,Free/Reduced,None,,,51,,84,,54
+865,Male,Group A,Master's,Free/Reduced,None,,,86,,65,,61
+866,Female,Group C,Bachelor's,Standard,None,,,63,,66,,76
+867,Female,Group E,Bachelor's,Standard,Completed,,,62,,58,,75
+868,Female,Group C,Bachelor's,Standard,Completed,,,87,,57,,75
+869,Male,Group A,Bachelor's,Standard,None,,,89,,65,,63
+870,Female,Group A,High School,Standard,None,,,72,,95,,84
+871,Male,Group D,High School,Standard,None,,,90,,96,,58
+872,Male,Group B,High School,Free/Reduced,Completed,,,71,,51,,80
+873,Female,Group C,Bachelor's,Free/Reduced,None,,,81,,87,,73
+874,Male,Group C,High School,Standard,None,,,80,,52,,58
+875,Female,Group A,Associate's,Free/Reduced,Completed,,,65,,86,,97
+876,Female,Group D,High School,Free/Reduced,Completed,,,99,,59,,67
+877,Male,Group A,Bachelor's,Standard,None,,,84,,64,,65
+878,Female,Group A,Associate's,Free/Reduced,Completed,,,85,,58,,57
+879,Male,Group D,Associate's,Free/Reduced,Completed,,,76,,76,,56
+880,Female,Group D,High School,Free/Reduced,None,,,87,,75,,50
+881,Female,Group B,Some College,Free/Reduced,None,,,75,,88,,72
+882,Male,Group D,Master's,Standard,None,,,54,,93,,87
+883,Female,Group E,Master's,Free/Reduced,Completed,,,90,,78,,57
+884,Male,Group C,Associate's,Standard,Completed,,,85,,65,,93
+885,Female,Group E,Some College,Free/Reduced,Completed,,,81,,83,,99
+886,Female,Group B,Some College,Free/Reduced,Completed,,,59,,55,,59
+887,Female,Group D,Bachelor's,Free/Reduced,None,,,66,,100,,71
+888,Male,Group D,Master's,Free/Reduced,Completed,,,99,,96,,50
+889,Male,Group A,Associate's,Standard,None,,,88,,91,,81
+890,Female,Group B,High School,Free/Reduced,None,,,74,,71,,80
+891,Male,Group E,Bachelor's,Standard,None,,,66,,50,,60
+892,Female,Group E,Bachelor's,Free/Reduced,None,,,69,,79,,96
+893,Female,Group E,Associate's,Free/Reduced,None,,,53,,94,,58
+894,Male,Group B,High School,Standard,Completed,,,83,,63,,60
+895,Male,Group E,Bachelor's,Free/Reduced,None,,,59,,61,,96
+896,Female,Group B,Bachelor's,Standard,None,,,54,,84,,54
+897,Male,Group B,Some College,Standard,None,,,59,,73,,77
+898,Male,Group E,Associate's,Free/Reduced,Completed,,,97,,78,,98
+899,Female,Group A,Master's,Standard,None,,,65,,96,,98
+900,Male,Group A,Master's,Standard,Completed,,,56,,92,,74
+901,Male,Group E,Associate's,Free/Reduced,None,,,72,,82,,62
+902,Male,Group A,Associate's,Free/Reduced,None,,,70,,57,,57
+903,Female,Group B,Some College,Free/Reduced,None,,,69,,79,,58
+904,Male,Group C,Associate's,Standard,Completed,,,54,,66,,95
+905,Female,Group B,Associate's,Free/Reduced,Completed,,,76,,72,,86
+906,Female,Group E,Master's,Free/Reduced,None,,,77,,92,,81
+907,Male,Group E,Associate's,Free/Reduced,None,,,67,,64,,85
+908,Male,Group C,Master's,Free/Reduced,None,,,60,,63,,77
+909,Female,Group A,Master's,Free/Reduced,None,,,58,,73,,72
+910,Female,Group B,Bachelor's,Free/Reduced,Completed,,,87,,78,,61
+911,Male,Group D,Some College,Free/Reduced,Completed,,,53,,93,,55
+912,Female,Group D,Bachelor's,Standard,None,,,79,,71,,86
+913,Female,Group C,Master's,Free/Reduced,Completed,,,84,,96,,93
+914,Male,Group A,Bachelor's,Standard,None,,,52,,90,,80
+915,Female,Group B,Associate's,Standard,Completed,,,64,,78,,72
+916,Female,Group B,Associate's,Standard,Completed,,,99,,85,,93
+917,Male,Group C,Bachelor's,Standard,None,,,94,,68,,81
+918,Female,Group B,Master's,Standard,None,,,80,,74,,70
+919,Male,Group C,Master's,Free/Reduced,None,,,94,,86,,53
+920,Male,Group C,High School,Standard,None,,,64,,80,,83
+921,Female,Group B,Associate's,Standard,Completed,,,89,,81,,61
+922,Male,Group A,Bachelor's,Standard,Completed,,,60,,58,,66
+923,Female,Group D,High School,Standard,None,,,96,,87,,53
+924,Male,Group C,Master's,Standard,Completed,,,100,,96,,55
+925,Female,Group C,Some College,Standard,Completed,,,97,,62,,58
+926,Female,Group E,Some College,Free/Reduced,Completed,,,87,,70,,62
+927,Female,Group B,Some College,Free/Reduced,Completed,,,100,,85,,85
+928,Female,Group A,High School,Standard,None,,,71,,71,,83
+929,Male,Group A,Master's,Free/Reduced,None,,,59,,65,,55
+930,Male,Group A,Some College,Standard,Completed,,,51,,65,,99
+931,Male,Group D,High School,Standard,Completed,,,62,,90,,100
+932,Male,Group B,Bachelor's,Standard,Completed,,,73,,60,,51
+933,Male,Group A,Bachelor's,Free/Reduced,None,,,77,,94,,75
+934,Male,Group D,Some College,Standard,Completed,,,70,,83,,53
+935,Female,Group D,High School,Standard,None,,,52,,100,,70
+936,Female,Group D,Master's,Free/Reduced,None,,,61,,73,,94
+937,Female,Group E,Associate's,Free/Reduced,Completed,,,61,,93,,89
+938,Female,Group E,Some College,Free/Reduced,None,,,70,,56,,66
+939,Female,Group A,High School,Standard,Completed,,,92,,62,,65
+940,Male,Group C,Associate's,Standard,Completed,,,53,,69,,77
+941,Male,Group C,High School,Free/Reduced,None,,,85,,68,,62
+942,Female,Group E,Associate's,Standard,Completed,,,88,,82,,95
+943,Male,Group E,Some College,Free/Reduced,None,,,68,,88,,87
+944,Female,Group A,Some College,Free/Reduced,None,,,57,,86,,73
+945,Male,Group C,High School,Free/Reduced,Completed,,,57,,57,,90
+946,Female,Group A,Associate's,Free/Reduced,Completed,,,55,,93,,81
+947,Female,Group A,High School,Free/Reduced,None,,,65,,69,,55
+948,Female,Group E,High School,Standard,None,,,54,,98,,93
+949,Male,Group E,Associate's,Standard,None,,,70,,92,,52
+950,Male,Group E,Master's,Standard,None,,,93,,100,,88
+951,Female,Group B,High School,Standard,None,,,67,,74,,61
+952,Female,Group D,Master's,Standard,Completed,,,81,,68,,99
+953,Male,Group B,Master's,Free/Reduced,Completed,,,89,,64,,75
+954,Female,Group D,Some College,Standard,Completed,,,87,,58,,68
+955,Female,Group A,High School,Standard,Completed,,,75,,77,,89
+956,Male,Group E,High School,Standard,Completed,,,83,,68,,76
+957,Male,Group E,Bachelor's,Standard,None,,,85,,93,,98
+958,Female,Group E,High School,Free/Reduced,Completed,,,57,,83,,68
+959,Female,Group A,Associate's,Standard,None,,,85,,96,,82
+960,Male,Group D,Master's,Free/Reduced,Completed,,,66,,86,,90
+961,Male,Group D,Associate's,Free/Reduced,None,,,84,,82,,86
+962,Female,Group E,Master's,Standard,None,,,69,,59,,51
+963,Male,Group D,Some College,Standard,None,,,94,,72,,66
+964,Male,Group E,Some College,Standard,Completed,,,72,,99,,100
+965,Male,Group C,Master's,Standard,None,,,77,,87,,58
+966,Female,Group C,Associate's,Free/Reduced,Completed,,,52,,99,,55
+967,Female,Group E,High School,Free/Reduced,Completed,,,56,,90,,76
+968,Female,Group A,Master's,Free/Reduced,None,,,86,,50,,80
+969,Female,Group E,Master's,Free/Reduced,None,,,85,,88,,52
+970,Male,Group D,Some College,Free/Reduced,None,,,65,,59,,67
+971,Male,Group B,Associate's,Free/Reduced,Completed,,,67,,85,,100
+972,Female,Group B,Bachelor's,Free/Reduced,None,,,70,,95,,74
+973,Female,Group B,Master's,Free/Reduced,None,,,54,,99,,65
+974,Female,Group E,Associate's,Standard,Completed,,,56,,95,,75
+975,Male,Group B,Master's,Free/Reduced,Completed,,,84,,68,,74
+976,Female,Group E,Bachelor's,Standard,None,,,86,,79,,51
+977,Male,Group E,Master's,Standard,None,,,92,,84,,93
+978,Male,Group E,High School,Free/Reduced,None,,,50,,98,,79
+979,Male,Group A,Master's,Standard,None,,,61,,81,,85
+980,Female,Group A,Some College,Standard,Completed,,,96,,57,,76
+981,Male,Group B,High School,Standard,Completed,,,77,,79,,77
+982,Male,Group D,Bachelor's,Free/Reduced,Completed,,,77,,95,,70
+983,Female,Group A,Master's,Free/Reduced,Completed,,,51,,87,,100
+984,Male,Group E,High School,Standard,None,,,91,,57,,82
+985,Female,Group E,High School,Standard,Completed,,,53,,84,,52
+986,Female,Group C,Some College,Standard,Completed,,,54,,77,,84
+987,Female,Group C,Associate's,Free/Reduced,None,,,57,,64,,62
+988,Female,Group D,Bachelor's,Standard,None,,,67,,55,,56
+989,Female,Group A,Bachelor's,Free/Reduced,Completed,,,72,,96,,62
+990,Male,Group D,Associate's,Free/Reduced,None,,,90,,56,,71
+991,Female,Group C,Master's,Standard,Completed,,,75,,76,,55
+992,Male,Group E,Master's,Free/Reduced,None,,,94,,73,,80
+993,Female,Group D,Some College,Standard,None,,,76,,56,,90
+994,Female,Group C,Master's,Free/Reduced,None,,,51,,98,,70
+995,Female,Group D,Some College,Free/Reduced,Completed,,,89,,62,,95
+996,Female,Group A,Master's,Standard,None,,,70,,67,,77
+997,Male,Group D,Bachelor's,Free/Reduced,None,,,90,,60,,55
+998,Male,Group E,High School,Standard,None,,,68,,88,,67
+999,Male,Group E,Bachelor's,Standard,None,,,68,,85,,90
+1000,Female,Group A,Master's,Free/Reduced,Completed,,,78,,84,,74
